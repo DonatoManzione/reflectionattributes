@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3AEE65D8-1F4C-4D9B-B3F3-BC39CE65AB04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demonstration/Example1.cs">
+    <Files>
+      <File FileName="Demonstration/Example1.cs" Line="1" Column="1" />
+      <File FileName="Demonstration/Example1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demonstration" expanded="True" selected="True">
+            <Node name="IInterface" expanded="True" />
+            <Node name="Inndexers" expanded="True" />
+            <Node name="ReflectionAttributeDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReflectionAttributeDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
